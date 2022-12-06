@@ -10,7 +10,7 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 
 - 📫 Como chegar até mim:  melque.argolo@yahoo.com.br
 
-- 📄 Conheça minhas experiências:  Tec. em Informática e redes.
+- 📄 Conheça minhas experiências:     Tec. em Informática e redes.
 
 <h3 align="
 
