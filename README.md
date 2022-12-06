@@ -36,6 +36,6 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melqueargolo&" alt="melqueargolo" /></p>
                                                                                                                     
 
-![Snake animation](https://github.com/melqueargolo/melqueargolo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/melqueargolo/melqueargolo/blob/output/dist/github-snake.svg)
 
 
