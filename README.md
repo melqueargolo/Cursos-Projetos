@@ -1,7 +1,7 @@
 <h1 align="center">Bem Vindo! 👋, Eu sou Melque Argolo.</h1>
 <pre><h3 align="center">    Estudante de programação e desenvolvimento de sistemas, 
 atualmente estudo através de cursos </br> disponibilizados na internet de forma grátis/livre.
-sempre buscando agregar conhecimento para sempre evoluindo. </h3></pre>
+sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melqueargolo&label=Profile%20views&color=0e75b6&style=flat" alt ="melqueargolo" /> </p>
