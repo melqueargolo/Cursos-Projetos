@@ -34,4 +34,8 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&locale=en" alt="melqueargolo" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melqueargolo&" alt="melqueargolo" /></p>
+                                                                                                                    
+<!--codigo snake-->
+![Snake animation](https://github.com/melqueargolo/melqueargolo/blob/output/github-contribution-grid-snake.svg)
+
 
