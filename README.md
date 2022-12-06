@@ -6,7 +6,7 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melqueargolo&label=Profile%20views&color=0e75b6&style=flat" alt ="melqueargolo" /> </p>
 
-- 🌱 Atualmente estou aprendendo:  JavaScript, PHP, SQL, GIT/GitHub..
+- 🌱 Atualmente estou aprendendo:  JavaScript, PHP, SQL, GIT/GitHub...
 
 - 📫 Como chegar até mim:  melque.argolo@yahoo.com.br
 
