@@ -43,7 +43,11 @@
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melqueargolo&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)   
+ <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melqueargolo&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)   -->
+ 
+ <p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=melqueargolo&theme=tokyonight_duo&hide_border=true" /> 
+</p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=melqueargolo&bg_color=ffffff&color=9e4c98&line=7ebeec&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
