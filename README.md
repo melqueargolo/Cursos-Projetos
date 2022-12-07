@@ -33,10 +33,9 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 
 
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melqueargolo&show_icons=true&locale=en&layout=compact" alt="melqueargolo"/> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melqueargolo&show_icons=true&locale=en&layout=compact" alt="melqueargolo"/> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&locale=en" alt="melqueargolo" /> </p>
-
                                                                                                                     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melqueargolo&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
                                                                                                                   
