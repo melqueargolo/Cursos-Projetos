@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Melque+Argolo!;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=40&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Melque+Argolo!;Bem+Vindo!+:%29)](https://git.io/typing-svg)
     
 <br>
 <br>
 <br>
 
 <div>
-<img align="right" alt="coding"  width="410" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding"  width="415" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <div align="left"> 
 🌱 Atualmente estou aprendendo:<br> 
     JavaScript, PHP, SQL, GIT/GitHub
