@@ -11,11 +11,11 @@
 <img align="right" alt="coding"  width="390" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <div align="left"> 
 🌱 Atualmente estou aprendendo:<br> 
-    JavaScript, PHP, SQL, GIT/GitHub...<br>
-
+    JavaScript, PHP, SQL, GIT/GitHub... 
+    <hr width="265" >
 📫 Como chegar até mim:<br>
     melque.argolo@yahoo.com.br
-
+     <hr width="265" >
 📄 Conheça minhas experiências:<br>
     Tec. em Informática e redes.
 </div>
