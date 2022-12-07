@@ -32,8 +32,8 @@
 </div> 
 
 
-<div align="center">  
-    <img width="50%" height="220px" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=40E0D0&text_color=000&bg_color="ADD8E6" alt="Melque Argolo github stats" /> 
+<div align="center" height="220px">  
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=40E0D0&text_color=000&bg_color="ADD8E6" alt="Melque Argolo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melqueargolo&layout=compact&hide_border=true&title_color=1E90FF&text_color=000&bg_color="ADD8E6" />
 </div>
 
