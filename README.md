@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-
+<br>
 
 <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <div align="left"> 
