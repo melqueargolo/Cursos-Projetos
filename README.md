@@ -33,13 +33,15 @@
 
 
 <div align="center" >  
-    <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=40E0D0&text_color=000&bg_color="ADD8E6" alt="Melque Argolo github stats" /> 
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melqueargolo&layout=compact&hide_border=true&title_color=1E90FF&text_color=000&bg_color="ADD8E6" />
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=40E0D0&text_color=000&bg_color="ADD8E6" alt="Melque Argolo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melqueargolo&layout=compact&hide_border=true&title_color=1E90FF&text_color=000&bg_color="ADD8E6" />
 </div>
 
-                                                                                                                  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melqueargolo&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)                                                                                                                                                                                         
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=melqueargolo&bg_color=ffffff&color=9e4c98&line=7ebeec&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melqueargolo&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)   
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=melqueargolo&bg_color=ffffff&color=9e4c98&line=7ebeec&point=696969&area=true&hide_border=true&align=center)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=melqueargolo&label=Profile%20views&color=1E90FF&style=flat" alt ="melqueargolo" /> </p>
 
