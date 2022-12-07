@@ -12,10 +12,10 @@
 <div align="left"> 
 🌱 Atualmente estou aprendendo:<br> 
     JavaScript, PHP, SQL, GIT/GitHub... 
-    <hr width="265" >
+    <br>
 📫 Como chegar até mim:<br>
     melque.argolo@yahoo.com.br
-     <hr width="265" >
+     
 📄 Conheça minhas experiências:<br>
     Tec. em Informática e redes.
 </div>
