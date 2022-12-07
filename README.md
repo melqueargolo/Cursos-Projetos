@@ -3,6 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Melque+Argolo!;Bem+Vindo!+:%29)](https://git.io/typing-svg)
     
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
