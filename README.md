@@ -12,8 +12,8 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 
 - 📄 Conheça minhas experiências:
     <br>Tec. em Informática e redes.
+    
 <h3 align="
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +24,9 @@ sempre buscando agregar conhecimento para sempre evoluir. </h3></pre>
 <a href="https:// developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </br>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height=" 40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" altura="40"/> </a> </p> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" altura="40"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="php" width="40" altura="40"/> </a> 
+</p> 
 
 
 
