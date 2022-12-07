@@ -11,20 +11,20 @@
 <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
-<div align="center"> 
+<div align="left"> 
 
-- 🌱 Atualmente estou aprendendo:  JavaScript, PHP, SQL, GIT/GitHub...
+🌱 Atualmente estou aprendendo:  JavaScript, PHP, SQL, GIT/GitHub...
 
-- 📫 Como chegar até mim:  melque.argolo@yahoo.com.br
+📫 Como chegar até mim:  melque.argolo@yahoo.com.br
 
-- 📄 Conheça minhas experiências:
+📄 Conheça minhas experiências:
     <br>Tec. em Informática e redes.
     
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<div align="center"> 
+<div align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https:// developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
