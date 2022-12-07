@@ -8,10 +8,10 @@
 <br>
 
 <div>
-<img align="right" alt="coding" height="500" width="390" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding"  width="390" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <div align="left"> 
 🌱 Atualmente estou aprendendo:  JavaScript, PHP, SQL, GIT/GitHub...
-
+<br>
 📫 Como chegar até mim:  melque.argolo@yahoo.com.br
 
 📄 Conheça minhas experiências:
