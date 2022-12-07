@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
-
+<div align="left"> 
 
 - 🌱 Atualmente estou aprendendo:  JavaScript, PHP, SQL, GIT/GitHub...
 
@@ -15,7 +15,7 @@
 - 📄 Conheça minhas experiências:
     <br>Tec. em Informática e redes.
     
-
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
