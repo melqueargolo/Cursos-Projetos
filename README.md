@@ -6,7 +6,6 @@
 <br>
 <br>
 <br>
-<br>
 
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -23,6 +22,10 @@
     
 </div>
 
+<br>
+<br>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left"> 
@@ -37,6 +40,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt=" git" width="40" height="40"/> </a> 
 </div> 
 
+<br>
+<br>
 
 <div align="center" >  
     <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=melqueargolo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=40E0D0&text_color=000&bg_color="ADD8E6" alt="Melque Argolo github stats" /> 
