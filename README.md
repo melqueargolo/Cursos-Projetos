@@ -51,7 +51,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melqueargolo&bg_color=ffffff&color=9e4c98&line=7ebeec&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=melqueargolo&bg_color=ffffff&color=9e4c98&line=7ebeec&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=melqueargolo&label=Profile%20views&color=1E90FF&style=flat" alt ="melqueargolo" /> </p>
 
